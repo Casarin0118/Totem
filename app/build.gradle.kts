@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "com.pedrocasarin.totem"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.pedrocasarin.totem"
